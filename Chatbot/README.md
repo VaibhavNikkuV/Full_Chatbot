@@ -1,8 +1,8 @@
-# 🤖 OpenAI Chatbot Project
+# 🤖 OpenAI Chatbot Module
 
 A simple yet powerful chatbot implementation using OpenAI's GPT-4o-mini model with conversation memory and interactive commands.
 
-## 📁 Project Structure
+## 📁 Module Structure
 
 ```
 Chatbot/
